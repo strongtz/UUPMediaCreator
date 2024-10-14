@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [feat/uup_bsp_product_download]
   pull_request:
     branches: [main]
   workflow_dispatch:
